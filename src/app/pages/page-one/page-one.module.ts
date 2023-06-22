@@ -14,7 +14,8 @@ import { ComponentsModule } from 'src/app/components/components.module';
     CommonModule,
     FormsModule,
     IonicModule,
-    PageOnePageRoutingModule
+    PageOnePageRoutingModule,
+    ComponentsModule
   ],
   declarations: [PageOnePage],
   entryComponents: [PageOnePage]
